@@ -58,6 +58,11 @@ npm run ios
 ```bash
 npm run android
 ```
+
+### 4. Testing the App
+```bash
+npm run test
+```
 ---
 
 ## 📦 Tech Stack
